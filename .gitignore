@@ -1,0 +1,9 @@
+*.pth
+*.pt
+*.ckpt
+checkpoints/
+wandb/
+__pycache__/
+*.pyc
+.DS_Store
+.env
